@@ -1,0 +1,488 @@
+data_NSS
+	_exptl_crystal_density_diffrn 2.8653(6)
+	_cell_formula_units_Z 2
+	_chemical_formula_weight 318.98931
+	_cell_length_a  7.1471(7)
+	_cell_length_b  7.1471(7)
+	_cell_length_c  7.2381(7)
+	_cell_angle_alpha 90
+	_cell_angle_beta  90
+	_cell_angle_gamma 90
+	_cell_volume 369.73(8)
+	_symmetry_cell_setting 'tetragonal'
+	_symmetry_space_group_name_H-M  'P -4 21 c'
+	_symmetry_space_group_name_Hall  'P -4 2n'
+	_chemical_formula_sum  'Na3 S4 Sb'
+	_exptl_crystal_description  'powder'
+	_cell_measurement_temperature '300'
+	_diffrn_ambient_temperature  '300'
+	_diffrn_measurement_device_type  'KEK PF BL-8B'
+	_pd_proc_ls_prof_wR_factor  0.0267
+	_refine_ls_goodness_of_fit_all  2.92    
+	_refine_ls_R_I_factor  0.0121
+	loop_
+		_symmetry_equiv_pos_as_xyz
+		 'x, y, z '
+		 '-x+1/2, y+1/2, -z+1/2 '
+		 '-y, x, -z '
+		 '-y+1/2, -x+1/2, z+1/2 '
+		 'y, -x, -z '
+		 'y+1/2, x+1/2, z+1/2 '
+		 '-x, -y, z '
+		 'x+1/2, -y+1/2, -z+1/2 '
+	loop_
+		_atom_site_label
+		_atom_site_type_symbol
+		_atom_site_symmetry_multiplicity
+		_atom_site_fract_x
+		_atom_site_fract_y
+		_atom_site_fract_z
+		_atom_site_occupancy
+		_atom_site_B_iso_or_equiv
+		Na1 Na1+  4 0 0.5 0.4410(5) 1 0
+		Na2 Na1+  2 0 0 0.5 1 0
+		Sb  Sb5+  2 0 0 0 1 0
+		S   S2-   8 0.2998(3) 0.3272(3) 0.1811(3) 1 0
+	loop_
+		_atom_site_aniso_label
+		_atom_site_aniso_U_11
+		_atom_site_aniso_U_22
+		_atom_site_aniso_U_33
+		_atom_site_aniso_U_12
+		_atom_site_aniso_U_13
+		_atom_site_aniso_U_23
+		Na1 0.065(5) 0.019(2) 0.073(4) 0 0 0
+		Na2 0.084(5) 0.084(5) 0.039(4) 0 0 0
+		Sb  0.0134(2) 0.0134(2) 0.0134(2) 0 0 0
+		S   0.022(2) 0.0225(19) 0.0240(13) -0.0026(12) 0.0108(14) -0.0001(13)
+
+	loop_
+		_geom_bond_atom_site_label_1
+		_geom_bond_atom_site_label_2
+		_geom_bond_distance
+		_geom_bond_site_symmetry_1
+		_geom_bond_site_symmetry_2
+		Na1       S         2.880(2) 1_555   2_555
+		Na1       S         2.880(2) 1_555   8_455
+		Na1       S         3.023(3) 1_555   4_555
+		Na1       S         3.023(3) 1_555   6_455
+		Na1       S         3.107(3) 1_555   1_555
+		Na1       S         3.107(3) 1_555   7_565
+		Na2       S         2.983(2) 1_555   4_554
+		Na2       S         2.983(2) 1_555   8_455
+		Na2       S         2.983(2) 1_555   2_545
+		Na2       S         2.983(2) 1_555   6_444
+		Sb        S         2.300(2) 1_555   6_445
+		Sb        S         2.300(2) 1_555   2_545
+		Sb        S         2.300(2) 1_555   8_455
+		Sb        S         2.300(2) 1_555   4_555
+		S         Sb        2.300(2) 1_555   2_555
+		S         Na1       2.880(2) 1_555   2_545
+		S         Na2       2.983(2) 1_555   2_555
+		S         Na1       3.023(3) 1_555   4_554
+		S         Na1       3.107(3) 1_555   1_555
+	loop_
+		_geom_angle_atom_site_label_1
+		_geom_angle_atom_site_label_2
+		_geom_angle_atom_site_label_3
+		_geom_angle
+		_geom_angle_site_symmetry_1
+		_geom_angle_site_symmetry_2
+		_geom_angle_site_symmetry_3
+		S         Na1       S          144.27(17)  8_455 1_555   2_555
+		S         Na1       S          78.70(8)  4_555 1_555   8_455
+		S         Na1       S          123.29(8)  4_555 1_555   2_555
+		S         Na1       S          109.80(15)  6_455 1_555   4_555
+		S         Na1       S          123.29(8)  6_455 1_555   8_455
+		S         Na1       S          78.70(8)  6_455 1_555   2_555
+		S         Na1       S          155.73(8)  1_555 1_555   6_455
+		S         Na1       S          77.56(5)  1_555 1_555   4_555
+		S         Na1       S          80.45(7)  1_555 1_555   8_455
+		S         Na1       S          78.14(6)  1_555 1_555   2_555
+		S         Na1       S          105.49(14)  7_565 1_555   1_555
+		S         Na1       S          77.56(5)  7_565 1_555   6_455
+		S         Na1       S          155.73(8)  7_565 1_555   4_555
+		S         Na1       S          78.14(6)  7_565 1_555   8_455
+		S         Na1       S          80.45(7)  7_565 1_555   2_555
+		S         Na2       S          126.76(5)  8_455 1_555   4_554
+		S         Na2       S          78.64(8)  2_545 1_555   8_455
+		S         Na2       S          126.76(5)  2_545 1_555   4_554
+		S         Na2       S          126.76(5)  6_444 1_555   2_545
+		S         Na2       S          126.76(5)  6_444 1_555   8_455
+		S         Na2       S          78.64(8)  6_444 1_555   4_554
+		S         Sb        S          108.95(5)  2_545 1_555   6_445
+		S         Sb        S          110.52(10)  8_455 1_555   2_545
+		S         Sb        S          108.95(5)  8_455 1_555   6_445
+		S         Sb        S          108.95(5)  4_555 1_555   8_455
+		S         Sb        S          108.95(5)  4_555 1_555   2_545
+		S         Sb        S          110.52(10)  4_555 1_555   6_445
+		Na1       S         Sb         87.25(8)  2_545 1_555   2_555
+		Na2       S         Na1        109.58(9)  2_555 1_555   2_545
+		Na2       S         Sb         85.42(6)  2_555 1_555   2_555
+		Na1       S         Na2        128.00(8)  4_554 1_555   2_555
+		Na1       S         Na1        120.50(7)  4_554 1_555   2_545
+		Na1       S         Sb         83.91(7)  4_554 1_555   2_555
+		Na1       S         Na1        72.36(5)  1_555 1_555   4_554
+		Na1       S         Na2        72.41(6)  1_555 1_555   2_555
+		Na1       S         Na1        148.32(8)  1_555 1_555   2_545
+		Na1       S         Sb         124.09(9)  1_555 1_555   2_555
+
+data_NSSW006
+	_exptl_crystal_density_diffrn 2.8474(5)
+	_cell_formula_units_Z 2
+	_chemical_formula_weight 321.334724
+	_cell_length_a  7.1998(6)
+	_cell_length_b  7.1998(6)
+	_cell_length_c  7.2302(6)
+	_cell_angle_alpha 90
+	_cell_angle_beta  90
+	_cell_angle_gamma 90
+	_cell_volume 374.79(7)
+	_symmetry_cell_setting 'tetragonal'
+	_symmetry_space_group_name_H-M  'P -4 21 c'
+	_symmetry_space_group_name_Hall  'P -4 2n'
+	_chemical_formula_sum  'Na2.94 S4 Sb0.94 W0.06'
+	_exptl_crystal_description  'powder'
+	_cell_measurement_temperature '300'
+	_diffrn_ambient_temperature  '300'
+	_diffrn_measurement_device_type  'KEK PF BL-8B'
+	_pd_proc_ls_prof_wR_factor  0.0248
+	_refine_ls_goodness_of_fit_all  2.18      
+	_refine_ls_R_I_factor  0.0128
+	loop_
+		_symmetry_equiv_pos_as_xyz
+		 'x, y, z '
+		 '-x+1/2, y+1/2, -z+1/2 '
+		 '-y, x, -z '
+		 '-y+1/2, -x+1/2, z+1/2 '
+		 'y, -x, -z '
+		 'y+1/2, x+1/2, z+1/2 '
+		 '-x, -y, z '
+		 'x+1/2, -y+1/2, -z+1/2 '
+	loop_
+		_atom_site_label
+		_atom_site_type_symbol
+		_atom_site_symmetry_multiplicity
+		_atom_site_fract_x
+		_atom_site_fract_y
+		_atom_site_fract_z
+		_atom_site_occupancy
+		_atom_site_B_iso_or_equiv
+		Na1 Na1+  4 0 0.5 0.4711(18) 0.97 0
+		Na2 Na1+  2 0 0 0 1 0
+		Sb  Sb5+  2 0 0 0.5 0.94 0
+		W   W6+   2 0 0 0.5 0.06 0
+		S   S2-   8 0.3059(4) 0.3222(4) 0.1824(4) 1 0
+	loop_
+		_atom_site_aniso_label
+		_atom_site_aniso_U_11
+		_atom_site_aniso_U_22
+		_atom_site_aniso_U_33
+		_atom_site_aniso_U_12
+		_atom_site_aniso_U_13
+		_atom_site_aniso_U_23
+		Na1 0.108(9) 0.024(3) 0.180(9) 0 0 0
+		Na2 0.109(8) 0.109(8) 0.043(5) 0 0 0
+		Sb  0.0139(4) 0.0208(14) 0.0196(6) 0 0 0
+		S   0.038(3) 0.021(2) 0.0371(17) -0.0045(15) 0.0186(18) -0.0049(17)
+	loop_
+		_geom_bond_atom_site_label_1
+		_geom_bond_atom_site_label_2
+		_geom_bond_distance
+		_geom_bond_site_symmetry_1
+		_geom_bond_site_symmetry_2
+		Na1       S         2.927(6) 1_555   2_555
+		Na1       S         2.927(6) 1_555   8_455
+		Na1       S         2.971(7) 1_555   4_555
+		Na1       S         2.971(7) 1_555   6_455
+		Na2       S         2.977(3) 1_555   4_554
+		Na2       S         2.977(3) 1_555   2_545
+		Na2       S         2.977(3) 1_555   8_455
+		Na2       S         2.977(3) 1_555   6_444
+		Sb        S         2.309(3) 1_555   6_445
+		Sb        S         2.309(3) 1_555   2_545
+		Sb        S         2.309(3) 1_555   8_455
+		Sb        S         2.309(3) 1_555   4_555
+		S         Sb        2.309(3) 1_555   2_555
+		S         Na1       2.927(6) 1_555   2_545
+		S         Na1       2.971(7) 1_555   4_554
+		S         Na2       2.977(3) 1_555   2_555
+	loop_
+		_geom_angle_atom_site_label_1
+		_geom_angle_atom_site_label_2
+		_geom_angle_atom_site_label_3
+		_geom_angle
+		_geom_angle_site_symmetry_1
+		_geom_angle_site_symmetry_2
+		_geom_angle_site_symmetry_3
+		S         Na1       S          135.4(5)  8_455 1_555   2_555
+		S         Na1       S          79.22(12)  4_555 1_555   8_455
+		S         Na1       S          125.25(12)  4_555 1_555   2_555
+		S         Na1       S          118.1(4)  6_455 1_555   4_555
+		S         Na1       S          125.25(12)  6_455 1_555   8_455
+		S         Na1       S          79.22(12)  6_455 1_555   2_555
+		S         Na2       S          126.51(7)  2_545 1_555   4_554
+		S         Na2       S          79.06(11)  8_455 1_555   2_545
+		S         Na2       S          126.51(7)  8_455 1_555   4_554
+		S         Na2       S          126.51(7)  6_444 1_555   8_455
+		S         Na2       S          126.51(7)  6_444 1_555   2_545
+		S         Na2       S          79.06(11)  6_444 1_555   4_554
+		S         Sb        S          109.05(7)  2_545 1_555   6_445
+		S         Sb        S          110.32(14)  8_455 1_555   2_545
+		S         Sb        S          109.05(7)  8_455 1_555   6_445
+		S         Sb        S          109.05(7)  4_555 1_555   8_455
+		S         Sb        S          109.05(7)  4_555 1_555   2_545
+		S         Sb        S          110.32(14)  4_555 1_555   6_445
+		Na1       S         Sb         86.21(16)  2_545 1_555   2_555
+		Na1       S         Na1        120.03(9)  4_554 1_555   2_545
+		Na1       S         Sb         85.19(16)  4_554 1_555   2_555
+		Na2       S         Na1        124.02(18)  2_555 1_555   4_554
+		Na2       S         Na1        114.15(19)  2_555 1_555   2_545
+		Na2       S         Sb         85.31(9)  2_555 1_555   2_555
+
+data_NSSW015
+	_exptl_crystal_density_diffrn 2.8952(2)
+	_cell_formula_units_Z 2
+	_chemical_formula_weight 324.852845
+	_cell_length_a  7.19607(18)
+	_cell_length_b  7.19607(18)
+	_cell_length_c  7.19607(18)
+	_cell_angle_alpha 90
+	_cell_angle_beta  90
+	_cell_angle_gamma 90
+	_cell_volume 372.64(3)
+	_symmetry_cell_setting 'cubic'
+	_symmetry_space_group_name_H-M  'I -4 3 m'
+	_symmetry_space_group_name_Hall  'I -4 2 3'
+	_chemical_formula_sum  'Na2.85 S4 Sb0.85 W0.15'
+	_exptl_crystal_description  'powder'
+	_cell_measurement_temperature '300'
+	_diffrn_ambient_temperature  '300'
+	_diffrn_measurement_device_type  'KEK PF BL-8B'
+	_pd_proc_ls_prof_wR_factor  0.0221
+	_refine_ls_goodness_of_fit_all  2.48
+	_refine_ls_R_I_factor  0.0147
+	loop_
+		_symmetry_equiv_pos_as_xyz
+		 'x, y, z '
+		 '-x, -z, y '
+		 '-x, z, -y '
+		 '-x, y, -z '
+		 '-y, -x, z '
+		 '-y, -z, x '
+		 '-y, z, -x '
+		 '-y, x, -z '
+		 '-z, -x, y '
+		 '-z, -y, x '
+		 '-z, y, -x '
+		 '-z, x, -y '
+		 'z, -x, -y '
+		 'z, -y, -x '
+		 'z, y, x '
+		 'z, x, y '
+		 'y, -x, -z '
+		 'y, -z, -x '
+		 'y, z, x '
+		 'y, x, z '
+		 'x, -y, -z '
+		 'x, -z, -y '
+		 'x, z, y '
+		 '-x, -y, z '
+		 'x+1/2, y+1/2, z+1/2 '
+		 '-x+1/2, -z+1/2, y+1/2 '
+		 '-x+1/2, z+1/2, -y+1/2 '
+		 '-x+1/2, y+1/2, -z+1/2 '
+		 '-y+1/2, -x+1/2, z+1/2 '
+		 '-y+1/2, -z+1/2, x+1/2 '
+		 '-y+1/2, z+1/2, -x+1/2 '
+		 '-y+1/2, x+1/2, -z+1/2 '
+		 '-z+1/2, -x+1/2, y+1/2 '
+		 '-z+1/2, -y+1/2, x+1/2 '
+		 '-z+1/2, y+1/2, -x+1/2 '
+		 '-z+1/2, x+1/2, -y+1/2 '
+		 'z+1/2, -x+1/2, -y+1/2 '
+		 'z+1/2, -y+1/2, -x+1/2 '
+		 'z+1/2, y+1/2, x+1/2 '
+		 'z+1/2, x+1/2, y+1/2 '
+		 'y+1/2, -x+1/2, -z+1/2 '
+		 'y+1/2, -z+1/2, -x+1/2 '
+		 'y+1/2, z+1/2, x+1/2 '
+		 'y+1/2, x+1/2, z+1/2 '
+		 'x+1/2, -y+1/2, -z+1/2 '
+		 'x+1/2, -z+1/2, -y+1/2 '
+		 'x+1/2, z+1/2, y+1/2 '
+		 '-x+1/2, -y+1/2, z+1/2 '
+	loop_
+		_atom_site_label
+		_atom_site_type_symbol
+		_atom_site_symmetry_multiplicity
+		_atom_site_fract_x
+		_atom_site_fract_y
+		_atom_site_fract_z
+		_atom_site_occupancy
+		_atom_site_B_iso_or_equiv
+		Sb  Sb5+  2 0 0 0 0.85 1.369(13)
+		W   W6+   2 0 0 0 0.15 1.369(13)
+		S   S2-   8 0.18377(9) 0.18377(9) 0.18377(9) 1 0
+		Na  Na1+ 24 0.050(3) 0 0.5 0.2375 0
+	loop_
+		_atom_site_aniso_label
+		_atom_site_aniso_U_11
+		_atom_site_aniso_U_22
+		_atom_site_aniso_U_33
+		_atom_site_aniso_U_12
+		_atom_site_aniso_U_13
+		_atom_site_aniso_U_23
+		S 0.0353(5) 0.0353(5) 0.0353(5) -0.0059(4) -0.0059(4) -0.0059(4)
+		Na  0.102(10) 0.075(10) 0.022(2) 0 0 0
+	loop_
+		_geom_bond_atom_site_label_1
+		_geom_bond_atom_site_label_2
+		_geom_bond_distance
+		_geom_bond_site_symmetry_1
+		_geom_bond_site_symmetry_2
+		Sb        S         2.2905(11) 1_555  13_555
+		Sb        S         2.2905(11) 1_555   3_555
+		Sb        S         2.2905(11) 1_555   2_555
+		Sb        S         2.2905(11) 1_555   1_555
+		S         Sb        2.2905(11) 1_555   1_555
+		S         Na        2.803(7) 1_555  12_655
+		S         Na        2.803(7) 1_555  10_655
+		S         Na        2.803(7) 1_555  22_565
+		S         Na        2.803(7) 1_555   6_565
+		S         Na        2.803(7) 1_555   8_556
+		S         Na        2.803(7) 1_555   1_555
+		S         Na        3.123(12) 1_555  11_655
+		S         Na        3.123(12) 1_555   5_555
+		S         Na        3.123(12) 1_555   7_555
+		S         Na        3.123(12) 1_555   2_565
+		S         Na        3.123(12) 1_555   4_556
+		S         Na        3.123(12) 1_555   9_655
+		Na        Na        0.51(3) 1_555   8_556
+		Na        Na        0.51(3) 1_555   5_555
+		Na        Na        0.72(4) 1_555   4_556
+		Na        S         2.803(7) 1_555   1_555
+		Na        S         2.803(7) 1_555  13_556
+		Na        Na        2.88(4) 1_555  26_555
+		Na        S         3.123(12) 1_555   3_556
+		Na        S         3.123(12) 1_555   2_555
+	loop_
+		_geom_angle_atom_site_label_1
+		_geom_angle_atom_site_label_2
+		_geom_angle_atom_site_label_3
+		_geom_angle
+		_geom_angle_site_symmetry_1
+		_geom_angle_site_symmetry_2
+		_geom_angle_site_symmetry_3
+		S         Sb        S          109.471   3_555 1_555  13_555
+		S         Sb        S          109.471   2_555 1_555   3_555
+		S         Sb        S          109.471   2_555 1_555  13_555
+		S         Sb        S          109.471   1_555 1_555   2_555
+		S         Sb        S          109.471   1_555 1_555   3_555
+		S         Sb        S          109.471   1_555 1_555  13_555
+		Na        S         Sb         89.9(3) 12_655 1_555   1_555
+		Na        S         Na         10.4(7) 10_655 1_555  12_655
+		Na        S         Sb         89.9(3) 10_655 1_555   1_555
+		Na        S         Na         119.999(8) 22_565 1_555  10_655
+		Na        S         Na         109.6(7) 22_565 1_555  12_655
+		Na        S         Sb         89.9(3) 22_565 1_555   1_555
+		Na        S         Na         10.4(7)  6_565 1_555  22_565
+		Na        S         Na         130.4(7)  6_565 1_555  10_655
+		Na        S         Na         119.999(8)  6_565 1_555  12_655
+		Na        S         Sb         89.9(3)  6_565 1_555   1_555
+		Na        S         Na         109.6(7)  8_556 1_555   6_565
+		Na        S         Na         119.999(8)  8_556 1_555  22_565
+		Na        S         Na         119.999(8)  8_556 1_555  10_655
+		Na        S         Na         130.4(7)  8_556 1_555  12_655
+		Na        S         Sb         89.9(3)  8_556 1_555   1_555
+		Na        S         Na         10.4(7)  1_555 1_555   8_556
+		Na        S         Na         119.999(8)  1_555 1_555   6_565
+		Na        S         Na         130.4(7)  1_555 1_555  22_565
+		Na        S         Na         109.6(7)  1_555 1_555  10_655
+		Na        S         Na         119.999(8)  1_555 1_555  12_655
+		Na        S         Sb         89.9(3)  1_555 1_555   1_555
+		Na        S         Na         119.20(4) 11_655 1_555   1_555
+		Na        S         Na         129.4(6) 11_655 1_555   8_556
+		Na        S         Na         120.16(10) 11_655 1_555   6_565
+		Na        S         Na         109.9(6) 11_655 1_555  22_565
+		Na        S         Na         12.4(8) 11_655 1_555  10_655
+		Na        S         Na         7.6(5) 11_655 1_555  12_655
+		Na        S         Sb         82.3(2) 11_655 1_555   1_555
+		Na        S         Na         118.22(10)  5_555 1_555  11_655
+		Na        S         Na         7.6(5)  5_555 1_555   1_555
+		Na        S         Na         12.4(8)  5_555 1_555   8_556
+		Na        S         Na         119.20(4)  5_555 1_555   6_565
+		Na        S         Na         129.4(6)  5_555 1_555  22_565
+		Na        S         Na         109.9(6)  5_555 1_555  10_655
+		Na        S         Na         120.16(10)  5_555 1_555  12_655
+		Na        S         Sb         82.3(2)  5_555 1_555   1_555
+		Na        S         Na         127.2(4)  7_555 1_555   5_555
+		Na        S         Na         109.1(6)  7_555 1_555  11_655
+		Na        S         Na         129.4(6)  7_555 1_555   1_555
+		Na        S         Na         119.20(4)  7_555 1_555   8_556
+		Na        S         Na         12.4(8)  7_555 1_555   6_565
+		Na        S         Na         7.6(5)  7_555 1_555  22_565
+		Na        S         Na         120.16(10)  7_555 1_555  10_655
+		Na        S         Na         109.9(6)  7_555 1_555  12_655
+		Na        S         Sb         82.3(2)  7_555 1_555   1_555
+		Na        S         Na         9.3(5)  2_565 1_555   7_555
+		Na        S         Na         118.22(10)  2_565 1_555   5_555
+		Na        S         Na         118.22(10)  2_565 1_555  11_655
+		Na        S         Na         120.16(10)  2_565 1_555   1_555
+		Na        S         Na         109.9(6)  2_565 1_555   8_556
+		Na        S         Na         7.6(5)  2_565 1_555   6_565
+		Na        S         Na         12.4(8)  2_565 1_555  22_565
+		Na        S         Na         129.4(6)  2_565 1_555  10_655
+		Na        S         Na         119.20(4)  2_565 1_555  12_655
+		Na        S         Sb         82.3(2)  2_565 1_555   1_555
+		Na        S         Na         109.1(6)  4_556 1_555   2_565
+		Na        S         Na         118.22(10)  4_556 1_555   7_555
+		Na        S         Na         9.3(5)  4_556 1_555   5_555
+		Na        S         Na         127.2(4)  4_556 1_555  11_655
+		Na        S         Na         12.4(8)  4_556 1_555   1_555
+		Na        S         Na         7.6(5)  4_556 1_555   8_556
+		Na        S         Na         109.9(6)  4_556 1_555   6_565
+		Na        S         Na         120.16(10)  4_556 1_555  22_565
+		Na        S         Na         119.20(4)  4_556 1_555  10_655
+		Na        S         Na         129.4(6)  4_556 1_555  12_655
+		Na        S         Sb         82.3(2)  4_556 1_555   1_555
+		Na        S         Na         118.22(10)  9_655 1_555   4_556
+		Na        S         Na         127.2(4)  9_655 1_555   2_565
+		Na        S         Na         118.22(10)  9_655 1_555   7_555
+		Na        S         Na         109.1(6)  9_655 1_555   5_555
+		Na        S         Na         9.3(5)  9_655 1_555  11_655
+		Na        S         Na         109.9(6)  9_655 1_555   1_555
+		Na        S         Na         120.16(10)  9_655 1_555   8_556
+		Na        S         Na         129.4(6)  9_655 1_555   6_565
+		Na        S         Na         119.20(4)  9_655 1_555  22_565
+		Na        S         Na         7.6(5)  9_655 1_555  10_655
+		Na        S         Na         12.4(8)  9_655 1_555  12_655
+		Na        S         Sb         82.3(2)  9_655 1_555   1_555
+		Na        Na        Na         90.000    5_555 1_555   8_556
+		Na        Na        Na         45.000    4_556 1_555   5_555
+		Na        Na        Na         45.000    4_556 1_555   8_556
+		S         Na        Na         110.1(4)  1_555 1_555   4_556
+		S         Na        Na         125.2(3)  1_555 1_555   5_555
+		S         Na        Na         84.8(3)  1_555 1_555   8_556
+		S         Na        S          139.8(9) 13_556 1_555   1_555
+		S         Na        Na         110.1(4) 13_556 1_555   4_556
+		S         Na        Na         84.8(3) 13_556 1_555   5_555
+		S         Na        Na         125.2(3) 13_556 1_555   8_556
+		Na        Na        S          69.9(4) 26_555 1_555  13_556
+		Na        Na        S          69.9(4) 26_555 1_555   1_555
+		Na        Na        Na         180.000  26_555 1_555   4_556
+		Na        Na        Na         135.000  26_555 1_555   5_555
+		Na        Na        Na         135.000  26_555 1_555   8_556
+		S         Na        Na         122.6(3)  3_556 1_555  26_555
+		S         Na        S          78.07(11)  3_556 1_555  13_556
+		S         Na        S          125.24(19)  3_556 1_555   1_555
+		S         Na        Na         57.4(3)  3_556 1_555   4_556
+		S         Na        Na         85.3(3)  3_556 1_555   5_555
+		S         Na        Na         47.16(18)  3_556 1_555   8_556
+		S         Na        S          114.9(7)  2_555 1_555   3_556
+		S         Na        Na         122.6(3)  2_555 1_555  26_555
+		S         Na        S          125.24(19)  2_555 1_555  13_556
+		S         Na        S          78.07(11)  2_555 1_555   1_555
+		S         Na        Na         57.4(3)  2_555 1_555   4_556
+		S         Na        Na         47.16(18)  2_555 1_555   5_555
+		S         Na        Na         85.3(3)  2_555 1_555   8_556
