@@ -1,2 +1,4 @@
 vasprun.xml
 vasprun.xml.cache
+vasprun_npt.xml
+vasprun_npt.xml.cache
